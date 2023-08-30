@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shmbr
+👋 Hi, I’m @shmbr
 
 <!---
 shmbr/shmbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
