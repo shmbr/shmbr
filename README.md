@@ -1,8 +1,10 @@
 👋 hi, I’m Yura, and I’m doing a bunch of cool stuff:
 - software 🤖
 - music 🎸
-- photos 📷
+- photography 📷
 - ...
+
+more at [shmbr.xyz](shmbr.xyz)
 
 <!---
 shmbr/shmbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
